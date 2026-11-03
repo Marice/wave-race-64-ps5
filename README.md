@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H5L629ZHNX)
+
 <p align="center"><img src="assets/icon.png" alt="Wave Race 64 Recompiled for the PS5" width="320"></p>
 
 # Wave Race 64: Recompiled for the PlayStation 5
